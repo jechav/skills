@@ -1,0 +1,5 @@
+interface:
+  display_name: "Website Judgment Auditor"
+  short_description: "Audit Website A vs B justifications without rewriting them"
+policy:
+  allow_implicit_invocation: false

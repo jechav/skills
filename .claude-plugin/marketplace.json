@@ -1,0 +1,17 @@
+{
+  "name": "jechav",
+  "owner": {
+    "name": "Jose Echavez",
+    "url": "https://github.com/jechav"
+  },
+  "description": "Jose Echavez's agent skills.",
+  "plugins": [
+    {
+      "name": "jechav-skills",
+      "source": "./",
+      "description": "Jose Echavez's agent skills (website judgment auditing and more).",
+      "category": "productivity",
+      "keywords": ["skills", "annotation"]
+    }
+  ]
+}
