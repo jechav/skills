@@ -1,6 +1,6 @@
 {
   "name": "jechav-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Jose Echavez's agent skills, packaged as a Claude Code plugin.",
   "author": {
     "name": "Jose Echavez",
